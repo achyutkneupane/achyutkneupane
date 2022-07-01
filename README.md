@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achyutkneupane&show_icons=true&locale=en" alt="achyutkneupane" /></p>
 
-![.](https://hit.yhype.me/github/profile?user_id=30431426)
+![](https://hit.yhype.me/github/profile?user_id=30431426)
