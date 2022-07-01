@@ -2,7 +2,6 @@
 <h3 align="center">Laravel+Livewire || TailwindCSS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achyutkneupane&label=Profile%20views&color=0e75b6&style=flat" alt="achyutkneupane" /> </p>
-![](https://hit.yhype.me/github/profile?user_id=30431426)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achyutkneupane&show_icons=true&locale=en&layout=compact" alt="achyutkneupane" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achyutkneupane&show_icons=true&locale=en" alt="achyutkneupane" /></p>
+
+![.](https://hit.yhype.me/github/profile?user_id=30431426)
