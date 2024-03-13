@@ -38,6 +38,9 @@ I've been actively involved in web development since 2019, and my journey has be
 </p>
 
 <p align="center">
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achyutkneupane&show_icons=true&locale=en&layout=compact" alt="achyutkneupane" />
+  
   <img src="http://github-readme-streak-stats.herokuapp.com?user=achyutkneupane&theme=nordfox&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="Achyut's Github Streak Stats">
 </p>
 
@@ -95,6 +98,13 @@ I've been actively involved in web development since 2019, and my journey has be
   You can reach out to me via email: <a href="mailto:achyutkneupane@gmail.com">achyutkneupane@gmail.com</a>.
 </p>
 
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=achyutkneupane&style=for-the-badge&color=blueviolet&label=Profile+Views&base=1000" alt="Achyut's Github Profile Views">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=achyutkneupane&show_icons=true&locale=en" alt="achyutkneupane" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=achyutkneupane&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Achyut's Github Profile Views">
+</p>
+
+![](https://hit.yhype.me/github/profile?user_id=30431426)
