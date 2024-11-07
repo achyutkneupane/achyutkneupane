@@ -100,7 +100,7 @@ I've been actively involved in web development since 2019, and my journey has be
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=achyutkneupane&show_icons=true&locale=en" alt="achyutkneupane" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=achyutkneupane&show_icons=true&include_all_commits=true&count_private=true" alt="achyutkneupane" />
 </p>
 
 <p align="center">
