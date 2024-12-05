@@ -41,7 +41,7 @@ I've been actively involved in web development since 2019, and my journey has be
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achyutkneupane&show_icons=true&locale=en&layout=compact" alt="achyutkneupane" />
   
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=achyutkneupane&theme=nordfox&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="Achyut's Github Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=achyutkneupane&theme=monokai&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid" alt="Achyut's Github Streak Stats">
 </p>
 
 <h2 align="center">Skills</h1>
