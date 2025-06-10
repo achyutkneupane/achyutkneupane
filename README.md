@@ -28,11 +28,11 @@ I've been actively involved in web development since 2019, and my journey has be
 
 - 🚀 I wrote my first [`PHP`](https://www.php.net/) code in 2011. Was hard-coding the web using `Notepad++`. But been professionally active only since 2019.
 
-- 🎓 I'm an `Bachelors in Electronics & Communication Engineering` dropout. I dropped out to pursue `Bachelors in Computer Science` at [Sunway International Business School](https://www.sunway.edu.np/).
+- 🎓 I'm a `Bachelors in Electronics & Communication Engineering` dropout. I dropped out to pursue `Bachelors in Computer Science` at [Sunway International Business School](https://www.sunway.edu.np/).
 
-- 💻 While I began as a `backend-first full-stack` developer, my focus has now shifted more towards `frontend development`, with a strong interest in [React](https://reactjs.org/) development.
+- 💻 While I began as a `backend-first full-stack` developer, my focus has now shifted more towards `full-stack development`, with a strong interest in [React](https://reactjs.org/) on `frontend` development.
 
-- 👨‍💻 Currently, I'm serving as the Lead Developer at [Mantra Ideas Pvt. Ltd](https://mantraideas.com/). My tech stack has evolved over time, and I've gone from specializing in the TALL stack (TailwindCSS, AlpineJS, Laravel, Livewire) to being more focused on [React](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/).
+- 👨‍💻 Currently, I'm a full-time freelancer. My tech stack has evolved over time, and I've gone from specializing in the TALL stack (TailwindCSS, AlpineJS, Laravel, Livewire) to being more focused on [React](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/).
 
 - 🌱 I believe in a diverse approach to self-development. To keep my skills sharp, I'm actively learning [Node.js](https://nodejs.org/) with [Express.js](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/) for backend development.
 </p>
